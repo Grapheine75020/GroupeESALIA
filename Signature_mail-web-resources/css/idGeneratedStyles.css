@@ -1,0 +1,143 @@
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote, figure {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+body {
+	-epub-hyphens:auto;
+}
+div.Bloc-de-texte-standard {
+	border-style:solid;
+}
+table.Tableau-simple {
+	border-collapse:collapse;
+	border-color:#000000;
+	border-style:solid;
+	border-width:1px;
+	margin-bottom:-4px;
+	margin-top:4px;
+}
+td.Tableau-simple, th.Tableau-simple {
+	border-left-width:1px;
+	border-left-style:solid;
+	border-left-color:#000000;
+	border-top-width:1px;
+	border-top-style:solid;
+	border-top-color:#000000;
+	border-right-width:1px;
+	border-right-style:solid;
+	border-right-color:#000000;
+	border-bottom-width:1px;
+	border-bottom-style:solid;
+	border-bottom-color:#000000;
+	padding-top:4px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	vertical-align:top;
+}
+p.Paragraphe-standard {
+	color:#000000;
+	font-family:"Minion Pro", serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+td.CellOverride-1 {
+	border-bottom-color:#003c93;
+	border-bottom-width:0px;
+	border-left-color:#003c93;
+	border-left-width:0px;
+	border-right-color:#003c93;
+	border-right-width:0px;
+	border-top-color:#003c93;
+	border-top-width:0px;
+	padding-left:29px;
+	padding-top:33px;
+}
+td.CellOverride-2 {
+	border-bottom-color:#003c93;
+	border-bottom-width:0px;
+	border-left-color:#003c93;
+	border-left-width:0px;
+	border-right-color:#003c93;
+	border-right-width:0px;
+	border-top-color:#003c93;
+	border-top-width:0px;
+	padding-left:30px;
+}
+td.CellOverride-3 {
+	border-bottom-color:#003c93;
+	border-bottom-width:0px;
+	border-left-color:#003c93;
+	border-left-width:0px;
+	border-right-color:#003c93;
+	border-right-width:0px;
+	border-top-color:#003c93;
+	border-top-width:0px;
+	padding-left:30px;
+	padding-top:41px;
+}
+span.CharOverride-1 {
+	color:#003c93;
+	font-family:"Segoe UI", sans-serif;
+	font-size:14px;
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-2 {
+	color:#003c93;
+	font-family:"Segoe UI", sans-serif;
+	font-size:14px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-3 {
+	color:#003c93;
+	font-family:"Segoe UI", sans-serif;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-4 {
+	color:#003c93;
+	font-family:"Segoe UI", sans-serif;
+	font-size:58%;
+	font-style:normal;
+	font-weight:normal;
+	vertical-align:super;
+}
+span.CharOverride-5 {
+	font-family:"Segoe UI", sans-serif;
+	font-style:normal;
+	font-weight:normal;
+}
+col._idGenTableRowColumn-1 {
+	width:352px;
+}
+tr._idGenTableRowColumn-2 {
+	min-height:81px;
+}
+tr._idGenTableRowColumn-3 {
+	min-height:60px;
+}
+tr._idGenTableRowColumn-4 {
+	min-height:161px;
+}
+img._idGenObjectAttribute-1 {
+	height:90px;
+	width:270px;
+}
