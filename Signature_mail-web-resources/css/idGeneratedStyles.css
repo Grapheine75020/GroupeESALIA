@@ -6,6 +6,16 @@ body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote, figure 
 body {
 	-epub-hyphens:auto;
 }
+
+@font-face {
+    font-family: 'Segoe UI';
+    src: url('https://github.com/Grapheine75020/GroupeESALIA/blob/main/Signature_mail-web-resources/Segoe-UI-Web/SegoeUI-Bold.woff2') format('woff2'),
+         url('https://github.com/Grapheine75020/GroupeESALIA/blob/main/Signature_mail-web-resources/Segoe-UI-Web/SegoeUI-Bold.woff') format('woff'),
+		 url('https://cdn.jsdelivr.net/gh/Grapheine75020/GroupeESALIA@main/Signature_mail-web-resources/Segoe-UI-Web/SegoeUI.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/Grapheine75020/GroupeESALIA@main/Signature_mail-web-resources/Segoe-UI-Web/SegoeUI.woff2') format('woff2'),
+} 
+
+
 div.Bloc-de-texte-standard {
 	border-style:solid;
 }
